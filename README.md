@@ -1,4 +1,4 @@
-#  ![icon.ico](src\icon.ico) Quick Hand
+#  ![icon.ico](assets/icon.ico) Quick Hand
 
 ## 📝 介绍
 快速的仿手写文字的图片生成器。基于 https://github.com/Gsllchb/Handright/ 的 GUI。
