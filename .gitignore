@@ -113,3 +113,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.idea/
+*.mp4
+src/moduels/HandRight/
+src/build/
+src/dist/
+src/output/
