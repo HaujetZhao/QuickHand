@@ -33,8 +33,7 @@ class MainWindow(QMainWindow):
         self.loadStyleSheet()
         # self.status = self.statusBar() # 状态栏
 
-
-        # self.setWindowState(Qt.WindowMaximized)
+        self.setWindowState(Qt.WindowMaximized)
         # sys.stdout = Stream(newText=self.onUpdateText)
 
     def initGui(self):
